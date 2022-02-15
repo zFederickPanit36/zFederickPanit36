@@ -7,4 +7,4 @@ HELLO, I'm zFederickPanit36
 ## 
 Send me friend request on discord: [zFederickPanit36#8160]()
 
-*Rembember to:* #include <‎iostream‎>
+*Rembember to* #include <‎iostream‎>
