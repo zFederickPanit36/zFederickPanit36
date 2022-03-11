@@ -5,8 +5,8 @@ HELLO, I'm zFederickPanit36
 - 💥 I like creating webpages
 - 😃 I'm currently developing SWAG GANG website
 ## 
-Send me friend request on discord: [zFederickPanit36#8160]()<br>
-Take a look to my new fun projects: <br>
+Send me friend request on discord: [zFederickPanit36#8160]()<br><br>
+Take a look to my new fun projects:
  - https://zfederickpanit36.github.io/clickbutton/ <br>
  - https://zfederickpanit36.github.io/random-word-button
 
