@@ -9,5 +9,6 @@ Send me friend request on discord: [zFederickPanit36#8160]()<br><br>
 Take a look to my new fun projects:
  - https://zfederickpanit36.github.io/clickbutton/ <br>
  - https://zfederickpanit36.github.io/random-word-button
+ - http://zfederickpanit36.github.io/mitic-game
 ##
 *Rembember: * the signal coding exist!
