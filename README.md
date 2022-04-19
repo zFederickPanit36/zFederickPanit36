@@ -10,5 +10,6 @@ Take a look to my new fun projects:
  - https://zfederickpanit36.github.io/clickbutton/ <br>
  - https://zfederickpanit36.github.io/random-word-button
  - http://zfederickpanit36.github.io/mitic-game
+ - https://zfederickpanit36.github.io/pizzeria-stocazzo/
 ##
 *Rembember: * the signal coding exist!
